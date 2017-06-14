@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+		<head>
+			<link rel="stylesheet" type="text/css" href="first.css">
+			<title>Home Page</title>
+		</head>
+		<body>
+			<table>
+				<tr>
+					<th>S.No</th>
+					<th>Name</th>
+					<th>Place</th>
+				</tr>
+			</table>
+		</body>
+</html>					
